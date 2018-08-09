@@ -1,6 +1,6 @@
 
 body	{
-		background-image: url(../images/bg5.jpg);
+		background-image: url(../images/bg9.jpg);
 		background-size: cover;
 		height: 100vh;
 		color:	#fff;
@@ -11,7 +11,7 @@ body	{
 h1		{
 		font-size: 50px;
 		margin-bottom: 0;
-		background-color: #333;
+		background-color: black;
 		text-transform: uppercase;
 		letter-spacing: 3px;
 
@@ -19,7 +19,8 @@ h1		{
 h2		{	
 		text-transform: uppercase;
 		letter-spacing: 25px;
-		color: #DAF7A6; 	
+		/*color: #0DE2FF;*/
+		color: white;	 	
 }			
 #me		{
 		height: 200px;
@@ -34,8 +35,8 @@ h2		{
 		width:100%;
 		font-size: 18px;
 		line-height: 1.5;
-		background-color: rgba(236, 240, 241,0.8);
-		border-radius: 3% 3% 3% 3%; 
+		background-color: rgba(236, 240, 241,0.9);
+		/*border-radius: 3% 3% 3% 3%;*/
 		font-family: 'Roboto Mono', monospace;
 		color: black;
 }
